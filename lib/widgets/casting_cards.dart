@@ -51,7 +51,7 @@ class CastingCards extends StatelessWidget
 
 
 
-;
+
   }
 }
 
